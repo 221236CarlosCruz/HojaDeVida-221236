@@ -1,0 +1,18 @@
+header{
+    position: absolute;
+    width: 1376px;
+    height: 241px;
+    left: 32px;
+    top: 70px;
+    background: url(../FondoHeader.png);
+}
+
+.foto{
+    position: absolute;
+    width: 174px;
+    height: 186px;
+    left: 167px;
+    top: 37px;
+    background: url(../contactoCarlos.png);
+}
+
