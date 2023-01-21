@@ -5,10 +5,10 @@ import '../../assets/styles/Header.css'
 function Header() {
     return (
         <header>
-            <img src={FondoHeader} alt="Fondo Header" />
+            <img src={FondoHeader} alt="Fondo Header" className="FondoHeader" />
             <img className="foto" src={FotoPersonal} alt="Foto Personal" />
-            <h1>Carlos Cruz</h1>
-            <h3>Estudiante de Ingenieria en Desarrollo de Software</h3>
+            <h1 className="name">Carlos Cruz</h1>
+            <h3 className="rol">Estudiante de Ingenieria en Desarrollo de Software</h3>
         </header>
     );
 }

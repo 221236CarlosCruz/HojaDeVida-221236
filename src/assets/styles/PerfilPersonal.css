@@ -1,0 +1,38 @@
+.PerfilPersonal{
+    position: absolute;
+    left: 300px;
+    top: 270px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #4E6370;
+}
+
+.Descripcion1{
+    position: absolute;
+    width: 671px;
+    height: 303px;
+    left: 145px;
+    top: 350px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #353534;
+}
+
+.FotoPersonal{
+    position: absolute;
+    width: 368px;
+    height: 382px;
+    left: 1000px;
+    top: 250px;
+}

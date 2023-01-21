@@ -1,18 +1,50 @@
-header{
+.FondoHeader{
     position: absolute;
-    width: 1376px;
-    height: 241px;
+    width: 1490px;
+    height: 200px;
     left: 32px;
-    top: 70px;
-    background: url(../FondoHeader.png);
+    top: 0px;
 }
 
 .foto{
     position: absolute;
-    width: 174px;
-    height: 186px;
-    left: 167px;
-    top: 37px;
-    background: url(../contactoCarlos.png);
+    width: 164px;
+    height: 166px;
+    left: 200px;
+    top: 15px;
 }
 
+.name{
+
+    position: absolute;
+    width: 567px;
+    height: 129px;
+    left: 419px;
+    top: -65px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 110px;
+    line-height: 129px;
+
+    color: #F4F5EF;
+}
+
+.rol{
+    position: absolute;
+    width: 887px;
+    height: 45px;
+    left: 430px;
+    top: 85px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 45px;
+
+    text-align: justify;
+
+    color: #F4F5EF;
+}
