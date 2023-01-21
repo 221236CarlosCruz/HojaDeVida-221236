@@ -1,0 +1,41 @@
+.FotoHabilidades{
+    position: absolute;
+    width: 335px;
+    height: 359px;
+    left: 272px;
+    top: 750px;
+
+}
+
+.TextHabilidades{
+    position: absolute;
+    width: 252px;
+    height: 47px;
+    left: 945px;
+    top: 777px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #4E6370;
+
+}
+
+.Descripcion2{
+    position: absolute;
+    width: 246px;
+    height: 303px;
+    left: 945px;
+    top: 850px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #353534;
+}
