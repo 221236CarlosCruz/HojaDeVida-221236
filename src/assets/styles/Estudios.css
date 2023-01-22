@@ -1,0 +1,145 @@
+.TextEstudios{
+    position: absolute;
+    width: 189px;
+    height: 47px;
+    left: 626px;
+    top: 1200px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #4E6370;
+}
+
+.ImagenJardin{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    left: 190px;
+    top: 1350px;
+}
+
+.NameEscuela1{
+    position: absolute;
+    width: 292px;
+    height: 94px;
+    left: 108px;
+    top: 1500px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+
+    color: #7590A0;
+
+}
+
+.Periodo1{
+    position: absolute;
+    width: 369px;
+    height: 49px;
+    left: 60px;
+    top: 1620px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #353534;
+}
+
+.ImagenCebech{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    left: 656px;
+    top: 1350px;
+}
+
+.NameEscuela2{
+    position: absolute;
+    width: 331px;
+    height: 94px;
+    left: 564px;    
+    top: 1500px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+
+    color: #7590A0;
+
+}
+
+.Periodo2{
+    position: absolute;
+    width: 369px;
+    height: 49px;
+    left: 536px;
+    top: 1620px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #353534;
+}
+
+.ImagenCbtis{
+    position: absolute;
+    width: 121px;
+    height: 108px;
+    left: 1126px;
+    top: 1350px;
+}
+
+.NameEscuela3{
+    position: absolute;
+    width: 192px;
+    height: 47px;
+    left: 1091px;
+    top: 1500px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    text-align: center;
+
+    color: #7590A0;
+}
+
+.Periodo3{
+    position: absolute;
+    width: 369px;
+    height: 49px;
+    left: 1002px;
+    top: 1620px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #353534;
+}
+

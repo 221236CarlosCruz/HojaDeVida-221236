@@ -1,0 +1,100 @@
+.IconoTelefono{
+    position: absolute;
+    width: 103px;
+    height: 107px;
+    left: 145px;
+    top: 1850px;
+}
+
+.IconoCorreo{
+    position: absolute;
+    width: 87px;
+    height: 82px;
+    left: 502px;
+    top: 1850px;
+}
+
+.IconoCasa{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 857px;
+    top: 1850px;
+}
+
+.IconoInstagram{
+    position: absolute;
+    width: 70px;
+    height: 75px;
+    left: 1209px;
+    top: 1850px;
+}
+
+.TextTelefono{
+    position: absolute;
+    width: 369px;
+    height: 49px;
+    left: 12px;
+    top: 1990px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #353534;
+}
+
+.TextCorreo{
+    position: absolute;
+    width: 369px;
+    height: 49px;
+    left: 361px;
+    top: 1990px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #353534;
+
+}
+
+.TextCasa{
+    position: absolute;
+    width: 369px;
+    height: 86px;
+    left: 710px;
+    top: 1990px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #353534;
+}
+
+.TextInstagram{
+    position: absolute;
+    width: 369px;
+    height: 49px;
+    left: 1059px;
+    top: 1990px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #353534;
+}
