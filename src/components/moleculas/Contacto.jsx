@@ -1,8 +1,8 @@
 import {data} from "../../data/data"
-import IconoTelefono from "../../assets/IconoTelefono.png"
-import IconoCorreo from "../../assets/IconoCorreo.png"
-import IconoCasa from "../../assets/IconoCasa.png"
-import IconoInstagram from "../../assets/IconoInstagram.png"
+import IconoTelefono from "../../assets/img/IconoTelefono.png"
+import IconoCorreo from "../../assets/img/IconoCorreo.png"
+import IconoCasa from "../../assets/img/IconoCasa.png"
+import IconoInstagram from "../../assets/img/IconoInstagram.png"
 import '../../assets/styles/Contacto.css'
 
 function Contacto() {

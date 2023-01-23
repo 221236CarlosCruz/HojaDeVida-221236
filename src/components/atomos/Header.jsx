@@ -1,5 +1,5 @@
-import FotoPersonal from "../../assets/contactoCarlos.png"
-import FondoHeader from "../../assets/FondoHeader.png"
+import FotoPersonal from "../../assets/img/contactoCarlos.png"
+import FondoHeader from "../../assets/img/FondoHeader.png"
 import '../../assets/styles/Header.css'
 
 function Header() {

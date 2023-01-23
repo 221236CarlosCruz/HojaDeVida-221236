@@ -1,4 +1,4 @@
-import IconoHabilidades from '../../assets/FotoHabilidades.png'
+import IconoHabilidades from '../../assets/img/FotoHabilidades.png'
 import '../../assets/styles/Habilidades.css'
 
 function Habilidades() {

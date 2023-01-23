@@ -1,5 +1,5 @@
 export const data ={
-    estudios:{
+    estudios:{  
         escuela1:"Jardin de Niños Emilio Rabasa",
         periodo1:"2006-2009",
         escuela2:"CEBECH Emilio Rabasa Estebanell",

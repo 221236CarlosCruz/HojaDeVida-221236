@@ -1,4 +1,4 @@
-import IconoPersonal from '../../assets/fotoPersonal.png';
+import IconoPersonal from '../../assets/img/fotoPersonal.png';
 import '../../assets/styles/PerfilPersonal.css'
 
 function PerfilPersonal() {

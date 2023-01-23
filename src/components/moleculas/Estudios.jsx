@@ -1,7 +1,7 @@
 import { data } from "../../data/data";
-import IconoJardin from '../../assets/FotoJardin.png'
-import IconoCebech from '../../assets/FotoCebech.png'
-import IconoCbtis from '../../assets/FotoCbtis.png'
+import IconoJardin from '../../assets/img/FotoJardin.png'
+import IconoCebech from '../../assets/img/FotoCebech.png'
+import IconoCbtis from '../../assets/img/FotoCbtis.png'
 import '../../assets/styles/Estudios.css'
 
 function Estudios() {
